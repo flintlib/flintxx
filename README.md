@@ -13,7 +13,7 @@ which provide such an object oriented syntax.
 In general, flintxx strives to behave just like the underlying FLINT C, see the documentation for some exceptions.
 
 ## Authors
-The main author of this C++ wrapper is Tom Bachmann
+The author of this C++ wrapper is Tom Bachmann.
 This was originally part of [FLINT](https://github.com/flintlib/flint)
 
 ## License
