@@ -19,6 +19,7 @@
 
 #include <sstream>
 
+#include "nmod.h"
 #include "nmod_vec.h"
 
 // TODO reduce dependencies?

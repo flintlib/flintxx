@@ -13,6 +13,7 @@
 #ifndef FMPZ_MOD_POLYXX_H
 #define FMPZ_MOD_POLYXX_H
 
+#include "fmpz_mod.h"
 #include "fmpz_mod_poly.h"
 
 #include "fmpzxx.h"
