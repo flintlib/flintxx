@@ -14,6 +14,8 @@
 
 
 #include "fmpz_mod_poly.h"
+#include "fmpz_mod_poly_factor.h"
+#include "fmpz_mod_polyxx.h"
 
 namespace flint {
 class fmpz_mod_poly_factorxx

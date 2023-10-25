@@ -16,6 +16,7 @@
 #include <vector>
 
 #include "nmod_poly.h"
+#include "nmod_poly_factor.h"
 
 #include "fmpzxx.h"
 #include "nmod_vecxx.h"
